@@ -1,5 +1,4 @@
 # Here is a new update by Vern14
-# Here is a new update by Vern14
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
